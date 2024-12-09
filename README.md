@@ -1,10 +1,5 @@
 # API REST CRUD de Alumnos
-
-
-
-editar la parte de clonar el repo 
-
-
+  
 ## Descripción 📚
 
 Este proyecto tiene como objetivo **practicar mis conocimientos** en el manejo de solicitudes HTTP, implementando una **API REST** utilizando el framework **Spring Boot**.  
@@ -40,12 +35,12 @@ Podes probar la API accediendo a la colección que hice en Postman. Te dejo el e
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/tu-usuario/nombre-del-repo.git
+    git clone https://github.com/Giancardonee/APIREST-CRUD-de-Alumnos.git
     ```
 
 2. Navega al directorio del proyecto:
     ```bash
-    cd nombre-del-repo
+    cd APIREST-CRUD-de-Alumnos
     ```
 
 3. Ejecuta el proyecto:
@@ -53,3 +48,5 @@ Podes probar la API accediendo a la colección que hice en Postman. Te dejo el e
     ./mvnw spring-boot:run
     ```
 4. La API estará disponible en [http://localhost:8080](http://localhost:8080).
+
+   
