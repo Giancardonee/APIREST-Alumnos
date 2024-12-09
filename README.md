@@ -2,7 +2,7 @@
 
 ## Descripción 📚
 
-Este proyecto tiene como objetivo **practicar mis conocimientos** en el manejo de solicitudes HTTP, implementando una **REST API** con **Spring Boot**. En este proyecto se utilizaron los siguientes métodos HTTP para realizar operaciones CRUD:
+Este proyecto tiene como objetivo **practicar mis conocimientos** en el manejo de solicitudes HTTP, implementando una **REST API** utilizando el framwework **Spring Boot**. En este proyecto se utilizaron los siguientes métodos HTTP para realizar operaciones CRUD:
 
 - **GET**: Obtener datos.
 - **POST**: Crear nuevos registros.
