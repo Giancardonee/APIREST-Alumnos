@@ -1,4 +1,4 @@
-# API REST CRUD de Alumnos 🚀
+# API REST CRUD de Alumnos
 
 ## Descripción 📚
 
