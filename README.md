@@ -1,5 +1,10 @@
 # API REST CRUD de Alumnos
 
+
+
+editar la parte de clonar el repo 
+
+
 ## Descripción 📚
 
 Este proyecto tiene como objetivo **practicar mis conocimientos** en el manejo de solicitudes HTTP, implementando una **API REST** utilizando el framework **Spring Boot**.  
