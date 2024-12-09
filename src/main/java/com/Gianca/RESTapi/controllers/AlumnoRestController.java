@@ -16,9 +16,9 @@ public class AlumnoRestController {
 
         No es lo ideal trabajar con estructuras dinámicas como listas, ya que la información solo se mantiene durante la ejecucion
         Lo ideal sería persistir los datos en un almacenamiento permanente, como una base de datos.
-        y usaré estructuras dinámicas para almacenar los datos temporalmente mientras el programa está en ejecución
+        voy a usar estructuras dinámicas para practicar los metodos http de manera sencilla. 
 
-        Ademas,tener la lógica de negocio dentro de los controladores no seria considerado una buena practica.
+        Tener la lógica de negocio dentro de los controladores no seria considerado una buena practica.
         En aplicaciones bien diseñadas, los controladores deben ser responsables de manejar solicitudes HTTP, delegar tareas a las capas adecuadas y devolver las respuestas al cliente.
         La lógica de negocio debe estar en servicios o capas especializadas.
 
