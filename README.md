@@ -2,24 +2,28 @@
   
 ## Descripción 📚
 
-Este proyecto tiene como objetivo **practicar mis conocimientos** en el manejo de solicitudes HTTP, implementando una **API REST** utilizando el framework **Spring Boot**.  
-En este proyecto se utilizaron los siguientes métodos HTTP para realizar operaciones CRUD:
+Este proyecto tiene como objetivo practicar el manejo de solicitudes HTTP mediante la implementación de una API REST utilizando el framework Spring Boot.
+La idea principal es comprender cómo funcionan los métodos HTTP.  
 
-- **GET**: Obtener datos.
-- **POST**: Crear nuevos registros.
-- **PUT**: Actualizar registros existentes.
-- **PATCH**: Modificar parcialmente registros.
-- **DELETE**: Eliminar registros.
+ **⚠ Nota importante:**
+En este proyecto no separamos la lógica de negocio de los controladores, lo cual no sigue las buenas prácticas recomendadas. Esta decisión fue intencional para mantener el enfoque en aprender cómo funcionan las solicitudes HTTP de forma sencilla y directa.
 
-El objetivo es gestionar los datos en formato **JSON** y construir una aplicación siguiendo los **principios RESTful**, lo que permite comprender mejor cómo interactúan las APIs en el desarrollo de aplicaciones modernas.
+El proyecto utiliza los siguientes métodos HTTP para realizar operaciones CRUD:
+
+GET: Obtener datos.  
+POST: Crear nuevos registros.  
+PUT: Actualizar registros existentes.  
+PATCH: Modificar parcialmente registros.  
+DELETE: Eliminar registros.  
+  
+Este proyecto está 100% enfocado en el aprendizaje en Spring Boot.
 
 ## Características ✨
 
 - CRUD completo para **Alumnos**.
 - Operaciones HTTP con Spring Boot.
 - Respuestas en formato **JSON**.
-- Práctica de implementación de principios **RESTful**.
-
+  
 ## Cómo probar la API ⚙️
 
 Podes probar la API accediendo a la colección que hice en Postman. Te dejo el enlace para que puedas realizar las solicitudes:
@@ -35,7 +39,7 @@ Podes probar la API accediendo a la colección que hice en Postman. Te dejo el e
 
 1. Clona el repositorio:
     ```bash
-    git clone https://github.com/Giancardonee/APIREST-CRUD-de-Alumnos.git
+    git clone https://github.com/Giancardonee/APIREST-Alumnos.git
     ```
 
 2. Navega al directorio del proyecto:
