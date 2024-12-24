@@ -44,7 +44,7 @@ Podes probar la API accediendo a la colección que hice en Postman. Te dejo el e
 
 2. Navega al directorio del proyecto:
     ```bash
-    cd APIREST-CRUD-de-Alumnos
+    cd APIREST-Alumnos
     ```
 
 3. Ejecuta el proyecto:
